@@ -6,3 +6,5 @@ langchain
 python-dotenv
 rogue
 scikit-learn
+python-Levenshtein
+fuzzywuzzy
