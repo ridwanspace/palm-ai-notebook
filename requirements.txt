@@ -8,3 +8,7 @@ rogue
 scikit-learn
 python-Levenshtein
 fuzzywuzzy
+faiss-cpu
+beautifulsoup4
+pypdf
+chromadb
