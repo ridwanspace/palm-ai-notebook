@@ -14,3 +14,6 @@ pypdf
 chromadb
 pillow
 google-generativeai
+db-dtypes
+google-cloud-storage
+google-cloud-bigquery
